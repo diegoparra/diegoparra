@@ -5,7 +5,7 @@ I'm Diego Parra - DevOps Engineer 👋
 
 ## I'm a Husband, Father, and make some code!!
 
-- 🌱 I’m currently learning Rust 
+- 🌱 I’m currently learning Rust / Go
 
 
 ### Connect with me:
